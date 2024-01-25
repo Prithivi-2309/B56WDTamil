@@ -11,4 +11,4 @@ git push origin main
 in case for the first time
 git config --global user.name "someone"
 git config --global user.email "someone@someplace.com"
-git remote set-url origin - error in second stepl only
+git remote set-url origin - error in second stepl onlygot 
