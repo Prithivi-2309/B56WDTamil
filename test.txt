@@ -17,6 +17,8 @@ upload saved changes
 upload to file
 
 finalllllyyy
+for(var a in obj1){console.log(a,obj1[a])};
+
 
 
 
